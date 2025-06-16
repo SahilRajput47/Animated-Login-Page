@@ -89,4 +89,4 @@ You’re free to use, modify, and share it with attribution.
 ⭐ Show Some Love
 If you found this useful or cool, don’t forget to star the repository!
 
-<p align="center"> <a href="https://github.com/SahilRajput47/animated-login-page"> ⭐ Star This Project on GitHub </a> </p> ```
+
