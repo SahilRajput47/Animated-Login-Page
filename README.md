@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/SahilRajput47/animated-login-page"><img src="https://img.shields.io/github/stars/SahilRajput47/animated-login-page?style=for-the-badge&color=purple" alt="Stars"></a>
- <a href="https://github.com/SahilRajput47/animated-login-page"><img src="https://img.shields.io/github/license/SahilRajput47/animated-login-page?style=for-the-badge&color=blueviolet" alt="License"></a>
+  <a href="https://github.com/SahilRajput47/animated-login-page"><img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="MIT License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS Badge"></a>
 </p>
 
@@ -75,10 +75,12 @@ cd animated-login-page
 Just drag index.html into your browser.
 
 🔗 Connect with Me
-Platform	Link
-📧 Email	Sahilrajput4763@gmail.com
-🐙 GitHub	@SahilRajput47
-📷 Instagram	@sahil_rajput.74
+| Platform     | Link                                                          |
+| ------------ | ------------------------------------------------------------- |
+| 📧 Email     | [Sahilrajput4763@gmail.com](mailto:Sahilrajput4763@gmail.com) |
+| 🐙 GitHub    | [@SahilRajput47](https://github.com/SahilRajput47)            |
+| 📷 Instagram | [@sahil\_rajput.74](https://instagram.com/sahil_rajput.74)    |
+
 
 🤝 I’d love to hear your feedback or collaborate on cool UI projects!
 
