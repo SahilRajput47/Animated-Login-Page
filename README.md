@@ -14,11 +14,14 @@ Welcome to the **Animated Login Page** project – a sleek and responsive login 
 - 💻 **Cross-Browser Compatibility**
 
 ---
+## 🔗 Live Demo
+()
+
+
+---
 
 ## 📸 Preview
-
-> *(Add a screenshot or GIF of your animated login page here)*  
-You can use tools like [ScreenToGif](https://www.screentogif.com/) to record a preview.
+<img src="login.png">
 
 ---
 
