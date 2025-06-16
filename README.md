@@ -30,6 +30,36 @@ You can use tools like [ScreenToGif](https://www.screentogif.com/) to record a p
 
 ---
 
+## 🛠️ Built With
+
+- 🔤 **HTML5** – Markup and structure
+- 🎨 **CSS3** – Styling and animations
+- 🧿 **Icon Libraries** – Font Awesome / Remix Icons / Google Symbols
+
+---
+
+## 🔧 Setup Instructions
+To run this project locally:
+
+🖥️ Method 1: Manual Launch
+Download or clone this repository:
+git clone https://github.com/SahilRajput47/animated-login-page.git
+2.Navigate to the folder:cd animated-login-page
+3.Open the index.html file in your web browser.
+🌐 Method 2: Drag and Drop
+Simply drag and drop the index.html file into your browser window.
+---
+🔗 Connect with Me
+📧 Email: Sahilrajput4763@gmail.com
+
+🐙 GitHub: SahilRajput47
+
+📷 Instagram: @sahil_rajput.74
+
+Feel free to reach out if you like this project, want to collaborate, or just say hi! 😊
+---
+
+
 ## 📁 Folder Structure
 
 ```bash
@@ -40,58 +70,5 @@ animated-login-page/
 │   ├── icons/
 │   └── images/
 └── README.md
-🧠 How It Works
-🎭 Smooth animations on focus, hover, and interaction using pure CSS.
 
-🧲 Modern icons embedded for inputs, buttons, and UI elements.
 
-📱 Fully responsive layout using Flexbox and media queries.
-
-💫 Visually appealing design that creates an excellent first impression.
-
-🔧 Setup Instructions
-To run this project locally:
-
-🖥️ Method 1: Manual Launch
-Download or clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/SahilRajput47/animated-login-page.git
-Navigate to the folder:
-
-bash
-Copy
-Edit
-cd animated-login-page
-Open the index.html file in your web browser.
-
-🌐 Method 2: Drag and Drop
-Simply drag and drop the index.html file into your browser window.
-
-🔗 Connect with Me
-📧 Email: Sahilrajput4763@gmail.com
-
-🐙 GitHub: SahilRajput47
-
-📷 Instagram: @sahil_rajput.74
-
-Feel free to reach out if you like this project, want to collaborate, or just say hi! 😊
-
-📜 License
-This project is licensed under the MIT License.
-
-You are free to use, modify, and distribute this code for personal and commercial purposes. A credit is appreciated but not required.
-
-✨ Crafted with creativity, animated with passion.
-Give your users a smooth and modern login experience with this beautifully designed login page.
-Happy Coding! 💻🚀
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to convert this into an actual file download or add your live demo link i
