@@ -14,8 +14,8 @@ Welcome to the **Animated Login Page** project – a sleek and responsive login 
 - 💻 **Cross-Browser Compatibility**
 
 ---
-## 🔗 Live Demo
-()
+## 🔗 Live Demo -->
+(https://sahilrajput47.github.io/Animated-Login-Page/)
 
 
 ---
