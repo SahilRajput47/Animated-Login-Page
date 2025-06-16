@@ -29,15 +29,6 @@ You can use tools like [ScreenToGif](https://www.screentogif.com/) to record a p
 - 🧿 **Icon Libraries** – Font Awesome / Remix Icons / Google Symbols
 
 ---
-
-## 🛠️ Built With
-
-- 🔤 **HTML5** – Markup and structure
-- 🎨 **CSS3** – Styling and animations
-- 🧿 **Icon Libraries** – Font Awesome / Remix Icons / Google Symbols
-
----
-
 ## 🔧 Setup Instructions
 To run this project locally:
 
