@@ -1,68 +1,92 @@
-# 🔐 Animated Login Page ✨
+<h1 align="center">🔐 Animated Login Page</h1>
 
-Welcome to the **Animated Login Page** project – a sleek and responsive login UI built using **HTML** and **CSS**, featuring **modern animations**, **stylish layout**, and **latest icons** for an enhanced user experience.
+<p align="center">
+  A sleek, stylish & fully responsive <b>Login UI</b> crafted with modern <b>HTML + CSS</b><br>
+  Featuring ✨ smooth animations, modern layout, and trendy icon sets.
+</p>
 
----
-
-## 🚀 Features
-
-- 🌟 **Attractive and Animated UI**
-- 📱 **Fully Responsive Design**
-- 💡 **Modern CSS Effects**
-- 🔣 **Latest Icons & Symbols** (Font Awesome / Google Material Symbols / Remix Icon)
-- 🧩 **Clean and Organized Codebase**
-- 💻 **Cross-Browser Compatibility**
-
----
-## 🔗 Live Demo -->
-(https://sahilrajput47.github.io/Animated-Login-Page/)
-
+<p align="center">
+  <a href="https://github.com/SahilRajput47/animated-login-page"><img src="https://img.shields.io/github/stars/SahilRajput47/animated-login-page?style=for-the-badge&color=purple" alt="Stars"></a>
+  <a href="https://github.com/SahilRajput47/animated-login-page"><img src="https://img.shields.io/github/license/SahilRajput47/animated-login-page?style=for-the-badge&color=blueviolet" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS Badge"></a>
+</p>
 
 ---
 
-## 📸 Preview
-<img src="login.png">
+## 🚀 Live Demo
+
+🔗 **[Click Here to View Live](https://sahilrajput47.github.io/Animated-Login-Page/)**
 
 ---
 
-## 🛠️ Built With
+## 🌟 Features
 
-- 🔤 **HTML5** – Markup and structure
-- 🎨 **CSS3** – Styling and animations
-- 🧿 **Icon Libraries** – Font Awesome / Remix Icons / Google Symbols
+- 🌀 **Animated & Modern Interface**
+- 📱 **Responsive Design for All Devices**
+- 🎨 **CSS Transitions & Effects**
+- 🔣 **Latest Icon Libraries**
+  - Font Awesome
+  - Remix Icons
+  - Google Material Symbols
+- 🧼 **Clean, Modular Codebase**
+- 🖥️ **Cross-Browser Compatibility**
 
 ---
-## 🔧 Setup Instructions
-To run this project locally:
 
-🖥️ Method 1: Manual Launch
-Download or clone this repository:
-git clone https://github.com/SahilRajput47/animated-login-page.git
-2.Navigate to the folder:cd animated-login-page
-3.Open the index.html file in your web browser.
-🌐 Method 2: Drag and Drop
-Simply drag and drop the index.html file into your browser window.
----
-🔗 Connect with Me
-📧 Email: Sahilrajput4763@gmail.com
+## 🖼️ Preview
 
-🐙 GitHub: SahilRajput47
+<p align="center">
+  <img src="login.png" alt="Animated Login UI Preview" width="80%" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.2)">
+</p>
 
-📷 Instagram: @sahil_rajput.74
-
-Feel free to reach out if you like this project, want to collaborate, or just say hi! 😊
 ---
 
+## 🛠️ Tech Stack
+
+| Tool | Description |
+|------|-------------|
+| 🔤 **HTML5** | Page structure |
+| 🎨 **CSS3** | Styling & animations |
+| 💠 **Icons** | Font Awesome, Remix Icons, Google Symbols |
+
+---
 
 ## 📁 Folder Structure
-
-```bash
 animated-login-page/
 ├── index.html
 ├── style.css
 ├── assets/
-│   ├── icons/
-│   └── images/
+│ ├── icons/
+│ └── images/
 └── README.md
 
+---
 
+## ⚙️ Setup Instructions
+
+### 🖥️ Method 1: Clone & Launch
+
+```bash
+git clone https://github.com/SahilRajput47/animated-login-page.git
+cd animated-login-page
+# Open index.html in your browser
+
+🌐 Method 2: Drag & Drop
+Just drag index.html into your browser.
+
+🔗 Connect with Me
+Platform	Link
+📧 Email	Sahilrajput4763@gmail.com
+🐙 GitHub	@SahilRajput47
+📷 Instagram	@sahil_rajput.74
+
+🤝 I’d love to hear your feedback or collaborate on cool UI projects!
+
+📝 License
+This project is licensed under the MIT License.
+You’re free to use, modify, and share it with attribution.
+
+⭐ Show Some Love
+If you found this useful or cool, don’t forget to star the repository!
+
+<p align="center"> <a href="https://github.com/SahilRajput47/animated-login-page"> ⭐ Star This Project on GitHub </a> </p> ```
