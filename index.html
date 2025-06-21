@@ -1,32 +1,39 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code With Sahil</title>
-        <link rel="stylesheet" href="style.css"/>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Code With Sahil - Demo Login UI</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div class="box">
+  <div class="box">
     <span class="borderline"></span>
     <form>
-        <h2>Sign in</h2>
-        <div class="inputBox">
-            <input type="text" required="required">
-        <span>username</span>
+      <h2>Sign in <small>(UI Demo Only)</small></h2>
+
+      <div class="inputBox">
+        <input type="text" placeholder="Demo Username" disabled />
+        <span>Username (demo)</span>
         <i></i>
-        </div>
-        <div class="inputBox">
-            <input type="password" required="required">
-        <span>password</span>
+      </div>
+
+      <div class="inputBox">
+        <input type="password" placeholder="Demo Password" disabled />
+        <span>Password (demo)</span>
         <i></i>
-        </div>
-        <div class="links">
-            <a href="#">Forget password</a>
-            <a href="#">password</a>
-        </div>
-        <input type="button" value="Login">
+      </div>
+
+      <div class="links">
+        <span>This is a non-functional demo form.</span>
+      </div>
+
+      <input type="button" value="Demo Only" disabled />
     </form>
-</div>
+
+    <p style="text-align:center; font-size: 0.85em; color: gray;">
+      ⚠️ This is a <strong>UI design demo</strong> only. No data is collected, submitted, or processed.
+    </p>
+  </div>
 </body>
 </html>
